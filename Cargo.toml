@@ -1,13 +1,12 @@
 [package]
 name = "tui2"
-version = "0.1.6"
+version = "0.1.7"
 edition = "2024"
 authors = ["Austin"]
 description = "A terminal UI launcher for terminal UI apps"
 repository = "https://github.com/auggie2lbcf/tui2"
 homepage = "https://github.com/auggie2lbcf/tui2"
 license = "MIT"
-readme = "README.md"
 
 [dependencies]
 crossterm = "0.28"
